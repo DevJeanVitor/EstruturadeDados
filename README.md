@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Requerimentos Acadêmicos
+# Sistema de Gerenciamento de Requerimentos do meio Acadêmicos
 
 ## Contexto e Descrição do Projeto
 
